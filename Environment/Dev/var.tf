@@ -1,0 +1,10 @@
+variable "mrg" {}
+variable "mvnet" {}
+variable "msnet" {}
+variable "mstg" {}
+variable "mca" {}
+variable "mnsg" {}
+variable "mnic" {}
+variable "mvm" {}
+variable "mnsg-ac" {}
+variable "msr" {}
